@@ -1,4 +1,4 @@
-MID TERM: Advanced Python Calculator 
+MID TERM: Advanced Python Calculator
 
 Project Overview
 
@@ -11,7 +11,7 @@ pip – Python's package manager for installing and managing dependencies.
 Installation
 
 Clone the repository:
-git clone https://github.com/srikargoud2002/Mid_Term
+git clone https://github.com/Bharath-k-11/Mid-term.git
 Navigate to the project directory:
 cd Mid_Term
 Install the required dependencies:
