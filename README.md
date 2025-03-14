@@ -7,7 +7,9 @@ This midterm assignment involves creating a Python-based calculator application.
 Prerequisites
 
 Python – Ensure that Python is installed and added to the system path.
+
 pip – Python's package manager for installing and managing dependencies.
+
 Installation
 
 Clone the repository:
