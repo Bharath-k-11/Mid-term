@@ -196,3 +196,6 @@ except TypeError:
     
     
 In this example, the code directly attempts to divide the operands and handles any exceptions (like division by zero or type errors) that might occur.
+
+Presentation Link:
+https://drive.google.com/file/d/1iQ8DwK56Ux43_Mt2bcxjVTvUiXBujV8J/view?usp=share_link
